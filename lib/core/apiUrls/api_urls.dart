@@ -3,10 +3,10 @@
 class ApiUrls {
   /// 🔹 Base URL
   // static const String baseUrl = "https://android.auditscore.in/api/";
-  static const String baseUrl = "https://uat.auditscore.in/api/";
-  static const String baseUrl2 = "https://uat.auditscore.in";
-  // static const String baseUrl = "https://sakshamgram.auditscore.in/api/";
-  // static const String baseUrl2 = "https://sakshamgram.auditscore.in";
+  // static const String baseUrl = "https://uat.auditscore.in/api/";
+  // static const String baseUrl2 = "https://uat.auditscore.in";
+  static const String baseUrl = "https://sakshamgram.auditscore.in/api/";
+  static const String baseUrl2 = "https://sakshamgram.auditscore.in";
 
   /// 🔹 Auth Endpoints
   static const String login = "${baseUrl}LoginAPI/submitLogin";
